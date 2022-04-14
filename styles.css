@@ -1,0 +1,12 @@
+article > h3 {
+    text-align: right;
+    font-family: monospace;
+    color: rgb(97, 105, 46);
+}
+
+article > p {
+    text-align: right;
+    color: rgb(68, 146, 146);
+    font-size: 250;
+    font-family: Arial;
+}
